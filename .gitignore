@@ -1,0 +1,7 @@
+*.txt
+*.jpg
+*.json
+build/
+devel/lib/
+devel/share/
+.vscode/

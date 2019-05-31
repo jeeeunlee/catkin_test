@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Icon[ko]=gnome-panel-launcher
+Exec=/home/lee/catkin_vins/bin/vinsfusion_ros.sh
+Name[ko]=vins_visualization
+Comment[ko]=vins_visualization
+Name=vins_visualization
+Comment=vins_visualization
+Icon=/usr/share/icons/suru/devices/scalable/computer-symbolic.svg
